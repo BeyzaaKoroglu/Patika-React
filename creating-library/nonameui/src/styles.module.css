@@ -1,0 +1,48 @@
+/* add css module styles here (optional) */
+
+.default {
+  margin: 2em;
+  padding: 0.5em;
+  border: 1.5px solid #BBB;
+  background-color: #FFF;
+  font-size: 1em;
+  text-align: center;
+}
+
+.primary {
+  margin: 2em;
+  padding: 0.5em;
+  border: 1.5px solid #34F;
+  background-color: #34F;
+  color: #FFF;
+  font-size: 1em;
+  text-align: center;
+}
+
+.dashed {
+  margin: 2em;
+  padding: 0.5em;
+  border: 1.5px dashed #BBB;
+  background-color: #FFF;
+  font-size: 1em;
+  text-align: center;
+}
+
+.text {
+  margin: 2em;
+  padding: 0.5em;
+  border: none;
+  background-color: #FFF;
+  font-size: 1em;
+  text-align: center;
+}
+
+.link {
+  margin: 2em;
+  padding: 0.5em;
+  border: none;
+  background-color: #FFF;
+  color: #00F;
+  font-size: 1em;
+  text-align: center;
+}
